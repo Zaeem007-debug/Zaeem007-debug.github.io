@@ -25,3 +25,6 @@ JavaScript (if applicable)
 
 ### Video link Working Project
 https://www.loom.com/share/864075a48f9945dfa3b073f7362efad0?sid=4b0b9ae0-3b53-4fea-a9ac-eba5a7af434b
+
+### Working Site Url
+https://zaeem007-debug.github.io/mohammad-zaeem-assignment/
